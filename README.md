@@ -1,3 +1,3 @@
 # Job Application Management Dashboard
 
-## This project is for practice some React concepts
+## This project is for practicing some React concepts
